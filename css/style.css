@@ -1,0 +1,4 @@
+#newsfeed{
+    overflow: auto; 
+    overflow-x: hidden;
+}
